@@ -1,0 +1,50 @@
+.btn
+{
+    color: white;
+    border: 1px solid ;
+    border-radius: 10%;
+}
+
+.custom
+{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.custom1
+{
+    font-weight: bold;
+}
+
+.a
+{
+    font-weight: bold;
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: 90vh;
+}
+
+p{
+    text-align: center;
+}
+
+.footer
+{
+    height: 100%;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    /* margin: auto; */
+    border: 1px double white;
+}
+
+.div1
+{
+    /* background-color: red; */
+    height: 70%;
+    margin: 1%;
+    padding: 15% 45%;
+    border: 1px black solid;
+    margin-left: 2%;
+}

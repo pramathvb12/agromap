@@ -1,0 +1,33 @@
+.container1
+{
+  padding: 2%;
+  margin: 0.5%;
+}
+
+h4{
+  text-transform: uppercase;
+}
+
+h3{
+    color: green;
+    padding-left: 0.5%;
+}
+
+.column {
+  float: left;
+  width: 22.5%;
+  background-color: rgb(241, 102, 33);
+  margin: 1%;
+  padding: 1%;
+  padding-left: 2%;
+  color: white;
+  height: 150px;
+  font-family: 'Brush Script MT';
+  border-radius: 8px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

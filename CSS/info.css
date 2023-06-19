@@ -1,0 +1,50 @@
+.div1
+{
+margin: 5% auto;
+width:80%;
+border: 2px solid rgb(0, 0, 0);
+padding: 1%;
+}
+form{
+ /* display: flex;
+ flex-direction: column; */
+padding: 2%;
+margin: 4px;
+
+
+ 
+ 
+}
+input{
+ padding: 1%;
+ margin: 4px;
+ 
+ 
+ 
+}
+label
+{
+ 
+ font-size: large;
+ 
+}
+.form-check
+{
+ margin: auto;
+}
+h3{
+ text-align: center;
+ margin-top:2% ;
+ text-transform: uppercase;
+ color: rgb(9, 9, 17);
+}
+button
+{
+ margin: 1% 45%;
+
+}
+button .btn{
+background-color: blueviolet;
+margin-left:45% ;
+
+}
